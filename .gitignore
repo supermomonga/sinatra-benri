@@ -1,6 +1,6 @@
 
 .DS_Store
 db/*.db
-log/*
+log/*.log
 .*.sw*
 assets/components/**/
