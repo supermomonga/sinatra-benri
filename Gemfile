@@ -22,6 +22,7 @@ gem 'dm-postgres-adapter', group: :production
 
 # Server
 gem 'unicorn'
+gem 'foreman', group: :development
 
 # Debug
 gem 'pry'
