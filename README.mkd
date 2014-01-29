@@ -1,6 +1,6 @@
 ## SinatraBenri
 
-SinatraBenri is the starter kit to create Sinatra application with Slim, SCSS, CoffeeScriptand Twitter Bootstrap3.
+SinatraBenri is the starter kit to create Sinatra application with Slim, SCSS, CoffeeScript and Twitter Bootstrap3.
 
 SinatraBenri is already configured to run on heroku.
 
