@@ -1,0 +1,35 @@
+## SinatraBenri
+
+SinatraBenri is the starter kit to create Sinatra application with Slim, SCSS, CoffeeScriptand Twitter Bootstrap3.
+
+SinatraBenri is already configured to run on heroku.
+
+## Requirement
+
+SinatraBenri requires those following things.
+
+- Ruby 2.0.0-p353 with rbenv
+    - bundler gem
+- Node.js
+    - bower
+
+## How to setup
+
+```
+git clone git@github.com:supermomonga/sinatra-benri.git
+cd ./sinatra-benri
+bundle install
+bower install
+```
+
+## How to run
+
+```
+bundle exec foreman start
+```
+
+Then, you can access to your application by accessing `0.0.0.0:5000`!
+
+## How to deploy to heroku
+
+(I'll write it later)
